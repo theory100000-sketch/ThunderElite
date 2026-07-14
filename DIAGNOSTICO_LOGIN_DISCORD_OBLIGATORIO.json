@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_CLASIFICACION_COPAS_MISMO_CUADRO_MAS_PEQUENO.zip",
+  "changes": [
+    "Discord OAuth login obligatorio",
+    "Vinculación una cuenta Discord = una cuenta web",
+    "Endpoints auth añadidos",
+    "Frontend login Discord añadido",
+    "express-session añadido a package.json"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

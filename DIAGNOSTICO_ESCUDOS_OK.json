@@ -1,0 +1,40 @@
+{
+  "clubes_en_data": 18,
+  "escudos_en_zip": 18,
+  "clubes_con_escudoUrl": 18,
+  "faltan_escudo": [],
+  "ejemplos": [
+    {
+      "nombre": "Catalunya Lliure",
+      "escudoUrl": "/escudos/escudo-catalunya-lliure-1783647001899.png"
+    },
+    {
+      "nombre": "Alegria FCA",
+      "escudoUrl": "/escudos/escudo-alegria-fca-1783675814661.png"
+    },
+    {
+      "nombre": "COVAYERS FC",
+      "escudoUrl": "/escudos/escudo-covayers-fc-1783651704382.png"
+    },
+    {
+      "nombre": "Fuzeteam FC B",
+      "escudoUrl": "/escudos/escudo-fuzeteam-fc-b-1783647040206.png"
+    },
+    {
+      "nombre": "Coolegas CF",
+      "escudoUrl": "/escudos/escudo-coolegas-cf-1783675755990.png"
+    },
+    {
+      "nombre": "Club Élite XL",
+      "escudoUrl": "/escudos/escudo-club-elite-xl-1783676596552.png"
+    },
+    {
+      "nombre": "Ghost Unit",
+      "escudoUrl": "/escudos/escudo-ghost-unit-1783676845645.png"
+    },
+    {
+      "nombre": "Tllres Mazeta",
+      "escudoUrl": "/escudos/escudo-tllres-mazeta-1783676878355.png"
+    }
+  ]
+}

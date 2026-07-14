@@ -1,0 +1,9 @@
+{
+  "base_zip": "TEL_WEB_SIN_JUGADORES_MINIMO_OK.zip",
+  "section_action": "inserted_before_reglamento",
+  "has_preview_section": true,
+  "has_preview_script": true,
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

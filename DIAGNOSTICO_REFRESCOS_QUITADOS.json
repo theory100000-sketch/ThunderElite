@@ -1,0 +1,54 @@
+{
+  "base_zip": "TEL_WEB_CLASIFICACION_LIGAS_JORNADAS_SIN_REINICIO.zip",
+  "results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "removed": {
+        "setInterval_applyRealData": 1,
+        "setInterval_refreshDynamicTeams": 0,
+        "setInterval_refreshEverythingFixed": 0,
+        "setInterval_renderAllTeams": 0,
+        "setInterval_renderClassification": 0,
+        "setInterval_renderClassificationFixed": 0,
+        "setInterval_applyEscudosLocales": 0,
+        "setInterval_applyLogos": 0,
+        "setInterval_applyLocalLogos": 0,
+        "setInterval_arrow_repaint": 0,
+        "setInterval_function_repaint": 0,
+        "mutation_observer_repaint_function": 0,
+        "mutation_observer_repaint_arrow": 0,
+        "refreshDynamicTeams_inside_renderAllTeams": 0
+      },
+      "setInterval_total_remaining": 0,
+      "setInterval_repaint_remaining": []
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "removed": {
+        "setInterval_applyRealData": 0,
+        "setInterval_refreshDynamicTeams": 0,
+        "setInterval_refreshEverythingFixed": 0,
+        "setInterval_renderAllTeams": 0,
+        "setInterval_renderClassification": 0,
+        "setInterval_renderClassificationFixed": 0,
+        "setInterval_applyEscudosLocales": 0,
+        "setInterval_applyLogos": 0,
+        "setInterval_applyLocalLogos": 0,
+        "setInterval_arrow_repaint": 0,
+        "setInterval_function_repaint": 0,
+        "mutation_observer_repaint_function": 0,
+        "mutation_observer_repaint_arrow": 0,
+        "refreshDynamicTeams_inside_renderAllTeams": 0
+      },
+      "setInterval_total_remaining": 0,
+      "setInterval_repaint_remaining": []
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

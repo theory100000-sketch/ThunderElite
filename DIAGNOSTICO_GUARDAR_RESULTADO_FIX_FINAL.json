@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_COPAS_BRACKET_NO_SOLAPE_MODAL_OK.zip",
+  "fixes": [
+    "Nuevo endpoint final para guardar resultados",
+    "Guarda data.json",
+    "Recalcula liga",
+    "Recalcula copa",
+    "Frontend usa endpoint final",
+    "Modal se cierra correctamente"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_COPAS_BRACKET_VISUAL_LIMPIO.zip",
+  "fixes": [
+    "Bracket compacto sin solaparse",
+    "Nombres más pequeños",
+    "Columnas más estrechas",
+    "Sin location.reload al guardar resultado",
+    "Marcador visible se actualiza en pantalla"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

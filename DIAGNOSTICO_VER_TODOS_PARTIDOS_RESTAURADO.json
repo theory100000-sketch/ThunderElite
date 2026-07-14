@@ -1,0 +1,25 @@
+{
+  "base_zip": "TEL_WEB_COPA_IGUAL_BOCETO_FINAL.zip",
+  "restored_from": "TEL_WEB_TODOS_LOS_PARTIDOS_TODAS_JORNADAS_FIX_LATERAL.zip",
+  "html_results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "has_good_all_matches_css": true,
+      "has_good_all_matches_script": true,
+      "removed_cup_boceto_css": true
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "has_good_all_matches_css": true,
+      "has_good_all_matches_script": true,
+      "removed_cup_boceto_css": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

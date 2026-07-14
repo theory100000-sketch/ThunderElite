@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_GUARDAR_RESULTADO_FIX_FINAL.zip",
+  "fixes": [
+    "Cada botón Editar resultado recibe su propio compId/matchId",
+    "Guardar no usa siempre el primer partido",
+    "Se elimina la recarga automática",
+    "Se actualiza el marcador visible",
+    "Modal se cierra sin bloquear"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

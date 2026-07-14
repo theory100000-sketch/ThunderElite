@@ -1,0 +1,8 @@
+{
+  "base_zip": "TEL_WEB_CLASIFICACION_LIGAS_OK.zip",
+  "index_has_final_script": true,
+  "index_has_css": true,
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

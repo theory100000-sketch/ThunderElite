@@ -1,0 +1,9 @@
+{
+  "archivos_parcheados": [
+    "index.html",
+    "partidos.html"
+  ],
+  "server_js_sintaxis_ok": true,
+  "setInterval_restantes_index": 2,
+  "setInterval_restantes_partidos": 1
+}

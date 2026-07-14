@@ -1,0 +1,30 @@
+{
+  "source_base": "TEL_WEB_VER_TODOS_PARTIDOS_RESTAURADO.zip",
+  "source_cup": "TEL_WEB_COPAS_FORMATO_BRACKET.zip",
+  "results": [
+    {
+      "file": "index.html",
+      "cup_mode_css": true,
+      "cup_mode_script": true
+    },
+    {
+      "file": "partidos.html",
+      "cup_mode_css": true,
+      "cup_mode_script": true
+    }
+  ],
+  "checks": {
+    "server.js": {
+      "ok": true,
+      "stderr": ""
+    },
+    "index.js": {
+      "ok": true,
+      "stderr": ""
+    },
+    "start-all.js": {
+      "ok": true,
+      "stderr": ""
+    }
+  }
+}

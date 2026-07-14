@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_COPAS_AVANCE_CUARTOS_FIX.zip",
+  "fixes": [
+    "Sobrescribe telAdvanceCup y recalcAll con lógica definitiva",
+    "QF1+QF2 => SF1",
+    "QF3+QF4 => SF2",
+    "SF1+SF2 => Final",
+    "Endpoint POST /api/admin/copas/recalcular",
+    "Botón admin para recalcular copa"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

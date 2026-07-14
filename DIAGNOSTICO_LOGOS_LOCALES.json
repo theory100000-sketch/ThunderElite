@@ -1,0 +1,51 @@
+{
+  "zip_base": "TEL_WEB_LOGOS_CLASIF_FIX_PLANO.zip",
+  "clubes": 18,
+  "logos_subidos": 17,
+  "clubes_con_escudoUrl": 17,
+  "faltan_logo": [
+    "Alegria FCA"
+  ],
+  "ejemplos": [
+    {
+      "nombre": "Catalunya Lliure",
+      "escudoUrl": "/escudos/escudo-catalunya-lliure-1783647001899.png"
+    },
+    {
+      "nombre": "Alegria FCA",
+      "escudoUrl": null
+    },
+    {
+      "nombre": "COVAYERS FC",
+      "escudoUrl": "/escudos/escudo-covayers-fc-1783651704382.png"
+    },
+    {
+      "nombre": "Fuzeteam FC B",
+      "escudoUrl": "/escudos/escudo-fuzeteam-fc-b-1783647040206.png"
+    },
+    {
+      "nombre": "Coolegas CF",
+      "escudoUrl": "/escudos/escudo-coolegas-cf-1783675755990.png"
+    },
+    {
+      "nombre": "Club Élite XL",
+      "escudoUrl": "/escudos/escudo-club-elite-xl-1783676596552.png"
+    },
+    {
+      "nombre": "Ghost Unit",
+      "escudoUrl": "/escudos/escudo-ghost-unit-1783676845645.png"
+    },
+    {
+      "nombre": "Tllres Mazeta",
+      "escudoUrl": "/escudos/escudo-tllres-mazeta-1783676878355.png"
+    },
+    {
+      "nombre": "TEIDE CITY",
+      "escudoUrl": "/escudos/escudo-teide-city-1783676899833.png"
+    },
+    {
+      "nombre": "Billar FC",
+      "escudoUrl": "/escudos/escudo-billar-fc-1783676951341.png"
+    }
+  ]
+}

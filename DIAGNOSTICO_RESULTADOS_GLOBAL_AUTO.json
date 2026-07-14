@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_ADMIN_NO_QUEDA_EN_LOGIN.zip",
+  "features": [
+    "Resultado global en data.json",
+    "Recalculo automático de clasificación con 3/1/0 puntos",
+    "GF/GC/DG automáticos",
+    "Copas editables y avance automático",
+    "Actualización visual por recarga tras guardar"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

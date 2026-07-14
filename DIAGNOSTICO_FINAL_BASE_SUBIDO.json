@@ -1,0 +1,14 @@
+{
+  "base_usada": "TEL_WEB_LOGOS_NO_MENU_FINAL_PLANO(1)(1).zip",
+  "clubes": 18,
+  "escudos_root": 18,
+  "escudos_public": 18,
+  "has_clasificacion": true,
+  "has_noticias": true,
+  "has_partidos": true,
+  "has_resultados_link": true,
+  "attachDropdown_noop": true,
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

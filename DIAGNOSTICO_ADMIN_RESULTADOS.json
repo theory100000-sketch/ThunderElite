@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_LOGIN_DISCORD_CALLBACK_FIX.zip",
+  "features": [
+    "Admin local sin Discord por correo roleplayserver007@gmail.com",
+    "Panel frontend para meter resultados",
+    "Endpoint POST /api/admin/resultado",
+    "Recalculo automático de clasificación",
+    "Avance automático en copas"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

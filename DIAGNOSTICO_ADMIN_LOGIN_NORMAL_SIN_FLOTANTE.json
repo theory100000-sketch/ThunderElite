@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_VISIBLE_ADMIN_NO_DISCORD_BLOCK.zip",
+  "fixes": [
+    "Quitado botón flotante Admin resultados",
+    "Admin inicia sesión desde Mi Cuenta/Login como los demás",
+    "Admin entra con correo y contraseña, sin Discord",
+    "Si admin está activo puede ver la web y editar resultados",
+    "Edición de resultados queda disponible como botones en partidos"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

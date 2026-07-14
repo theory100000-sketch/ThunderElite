@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_LOGIN_DISCORD_OBLIGATORIO_FIX_SESSION.zip",
+  "fixes": [
+    "Callback Discord con errores detallados",
+    "Redirect URI dinámico si DISCORD_REDIRECT_URI no está configurado",
+    "Página explicando Client Secret / Redirect URI",
+    "README actualizado",
+    "Corregida cadena multilínea en server.js"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

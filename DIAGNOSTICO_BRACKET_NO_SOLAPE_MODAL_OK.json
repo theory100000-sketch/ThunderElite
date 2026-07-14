@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_COPAS_COMPACTO_SIN_RECARGA.zip",
+  "fixes": [
+    "Bracket con columnas separadas",
+    "Scroll horizontal limpio",
+    "CSS fuerza no solape",
+    "Modal cierre robusto",
+    "Guardar resultado no deja pantalla bloqueada"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

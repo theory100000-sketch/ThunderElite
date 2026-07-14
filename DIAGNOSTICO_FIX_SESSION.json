@@ -1,0 +1,7 @@
+{
+  "base_zip": "TEL_WEB_LOGIN_DISCORD_OBLIGATORIO.zip",
+  "fix": "Añadido require de express-session antes de app.use(session(...))",
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

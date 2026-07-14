@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_VISTA_PREVIA_CLICK_FIX.zip",
+  "preview_count_before": 1,
+  "preview_count_after": 1,
+  "preview_duplicates_removed": 0,
+  "has_hide_css": true,
+  "has_hide_js": true,
+  "modified": true,
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

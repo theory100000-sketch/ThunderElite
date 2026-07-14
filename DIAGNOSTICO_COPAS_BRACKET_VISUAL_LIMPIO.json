@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_COPAS_CREAR_SEMIS_FINAL_AUTO.zip",
+  "fixes": [
+    "Bracket más ancho y limpio",
+    "Columnas separadas",
+    "Tarjetas más pequeñas",
+    "Final y semifinales sin montarse",
+    "Clasificación cup-mode usa ancho completo"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

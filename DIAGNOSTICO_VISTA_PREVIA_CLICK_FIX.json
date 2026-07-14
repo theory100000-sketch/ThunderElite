@@ -1,0 +1,8 @@
+{
+  "base_zip": "TEL_WEB_VISTA_PREVIA_PARTIDOS_OK.zip",
+  "has_preview_section": true,
+  "has_robust_script": true,
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

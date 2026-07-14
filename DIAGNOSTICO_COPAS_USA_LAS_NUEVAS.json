@@ -1,0 +1,30 @@
+{
+  "base_zip": "TEL_WEB_COPAS_TROFEOS_FINALES_ELITE_SILVER.zip",
+  "new_images_used": {
+    "elite_source": "/mnt/data/7659e8a4-cdd5-4425-a0e1-ea4286b26f21.png",
+    "silver_source": "/mnt/data/b165b804-fc7d-4d20-b523-d5650a215e56.png"
+  },
+  "copied": {
+    "elite": "assets/trofeo-copa-inaugural-elite.png",
+    "silver": "assets/trofeo-copa-inaugural-silver.png"
+  },
+  "html_results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "uses_new_assets": true,
+      "has_current_trophy_scope_fix": true
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "uses_new_assets": true,
+      "has_current_trophy_scope_fix": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

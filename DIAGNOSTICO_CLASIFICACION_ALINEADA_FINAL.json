@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_CLASIFICACION_HOME_CENTRADO_LOGO.zip",
+  "results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "has_align_fix": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

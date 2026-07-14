@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_ADMIN_RESULTADOS_MANUALES.zip",
+  "fixes": [
+    "Admin pasa requireWebLogin",
+    "/api/auth/me reconoce admin como authenticated",
+    "Frontend no bloquea Discord cuando admin está activo",
+    "Badge ADMIN visible"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

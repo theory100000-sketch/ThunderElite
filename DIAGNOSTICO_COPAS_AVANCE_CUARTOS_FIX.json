@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_PROXIMOS_FILTRADOS_COPAS_EDITABLES.zip",
+  "fixes": [
+    "Avance de copas por parejas de cuartos",
+    "QF1+QF2 => SF1",
+    "QF3+QF4 => SF2",
+    "SF1+SF2 => Final",
+    "Final guarda campeón"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

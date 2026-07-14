@@ -1,0 +1,21 @@
+{
+  "base_zip": "TEL_WEB_VISTA_PREVIA_OCULTA_FIX.zip",
+  "removed_preview_sections": 1,
+  "removed_scripts": {
+    "TEL VISTA PREVIA PARTIDOS FUNCIONAL": 1,
+    "TEL PREVIA CLICK FIX ROBUSTO": 1,
+    "TEL FIX PREVIA NO APARECE ABAJO": 1
+  },
+  "removed_css": {
+    "TEL VISTA PREVIA PARTIDO": 1,
+    "TEL PREVIA CLICK FIX": 1,
+    "TEL FIX DEFINITIVO: PREVIA OCULTA EN TODAS LAS SECCIONES": 1
+  },
+  "still_has_partido_preview_id": false,
+  "has_overlay_css": true,
+  "has_overlay_script": true,
+  "modified": true,
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

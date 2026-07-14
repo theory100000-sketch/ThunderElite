@@ -1,0 +1,7 @@
+{
+  "patched": [
+    "index.html",
+    "partidos.html"
+  ],
+  "server_check": true
+}

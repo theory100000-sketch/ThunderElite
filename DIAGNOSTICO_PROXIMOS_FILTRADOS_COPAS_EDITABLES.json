@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_RESULTADOS_GLOBAL_AUTO_CLASIFICACION_COPAS.zip",
+  "fixes": [
+    "Partidos finalizados se ocultan de próximos",
+    "Botones visibles para editar copas",
+    "Modal de edición si no existía",
+    "Endpoint /api/partidos/proximos añadido"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

@@ -1,0 +1,24 @@
+{
+  "base_zip": "TEL_WEB_CLASIFICACION_LIGAS_JORNADAS_FINAL.zip",
+  "html_results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "intervals_removed": 0,
+      "global_click_repaints_removed": 0,
+      "setInterval_remaining": 1
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "intervals_removed": 0,
+      "global_click_repaints_removed": 0,
+      "setInterval_remaining": 0
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

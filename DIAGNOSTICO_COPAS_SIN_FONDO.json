@@ -1,0 +1,24 @@
+{
+  "base_zip": "TEL_WEB_COPAS_USA_LAS_NUEVAS.zip",
+  "background_removed": [
+    {
+      "file": "assets/trofeo-copa-inaugural-elite.png",
+      "size": [
+        721,
+        1486
+      ],
+      "transparent_pixels": 431877
+    },
+    {
+      "file": "assets/trofeo-copa-inaugural-silver.png",
+      "size": [
+        801,
+        1461
+      ],
+      "transparent_pixels": 537408
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

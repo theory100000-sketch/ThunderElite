@@ -1,0 +1,22 @@
+{
+  "base_zip": "TEL_WEB_COPAS_FORMATO_BRACKET.zip",
+  "html_results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "render_replaced": 1,
+      "has_boceto_css": true
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "render_replaced": 1,
+      "has_boceto_css": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

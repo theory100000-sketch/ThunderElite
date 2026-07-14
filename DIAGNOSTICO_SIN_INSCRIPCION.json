@@ -1,0 +1,9 @@
+{
+  "base_usada": "TEL_WEB_MENU_LIGAS_DATA_EQUIPOS.zip",
+  "seccion_inscripcion_eliminada": false,
+  "index_tiene_inscripcion": false,
+  "index_modificado": false,
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

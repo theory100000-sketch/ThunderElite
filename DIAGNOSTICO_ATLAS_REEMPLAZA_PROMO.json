@@ -1,0 +1,24 @@
+{
+  "base_zip": "TEL_WEB_ATLAS_CREATIVE_EN_PROMO.zip",
+  "results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "promo_replaced": 1,
+      "has_forma_parte": false,
+      "has_atlas_promo": true
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "promo_replaced": 1,
+      "has_forma_parte": false,
+      "has_atlas_promo": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

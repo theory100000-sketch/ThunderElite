@@ -1,0 +1,21 @@
+{
+  "base_zip": "TEL_WEB_PREVIA_OVERLAY_FINAL_OK.zip",
+  "logo_copied": "assets/atlas-creative-watermark.png",
+  "html_results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "has_watermark": true
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "has_watermark": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

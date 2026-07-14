@@ -1,0 +1,28 @@
+{
+  "base_zip": "TEL_WEB_VER_TODOS_Y_COPAS_FOTO.zip",
+  "copied_assets": {
+    "trofeo_thunder_elite_league": "assets/trofeo-thunder-elite-league.png",
+    "trofeo_copa_inaugural_elite": "assets/trofeo-copa-inaugural-elite.png"
+  },
+  "html_results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "has_real_trophy_style": true,
+      "has_trophy_function": true,
+      "has_trophy_img_template": true
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "has_real_trophy_style": true,
+      "has_trophy_function": true,
+      "has_trophy_img_template": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

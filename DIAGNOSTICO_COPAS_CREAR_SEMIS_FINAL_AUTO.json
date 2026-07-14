@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_COPAS_AVANCE_REAL_FIX.zip",
+  "fixes": [
+    "Crea semifinales si no existen en data.json",
+    "Crea final si no existe en data.json",
+    "Pasa ganadores de cuartos a semifinal",
+    "Pasa ganadores de semifinal a final",
+    "Botón visible RECALCULAR Y PASAR GANADORES"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

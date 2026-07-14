@@ -1,0 +1,33 @@
+{
+  "total_clubes": 18,
+  "campos_url_detectados": {
+    "escudoUrl": 18
+  },
+  "primer_club": {
+    "nombre": "Catalunya Lliure",
+    "nombreVisual": "🚜 Catalunya Lliure",
+    "emoji": "🚜",
+    "presupuesto": 50000000,
+    "historialEconomia": [
+      {
+        "tipo": "ajuste",
+        "cantidad": 50000000,
+        "motivo": "Presupuesto inicial del club",
+        "usuarioId": "791958476003868702",
+        "usuarioTag": "koraybe.",
+        "fecha": "2026-07-07T18:35:34.745Z"
+      }
+    ],
+    "presidenteId": "727582475181752402",
+    "presidenteTag": "rober9313",
+    "vicepresidentes": [],
+    "rolId": "1524121722901762204",
+    "rolPresidenteId": "1522179876327522415",
+    "rolVicepresidenteId": "1522180050668224552",
+    "colorHex": "#2596be",
+    "escudoUrl": "https://cdn.discordapp.com/ephemeral-attachments/1522202697149845635/1524121716995915817/content.png?ex=6a4e9876&is=6a4d46f6&hm=db6ebdf323de0834de74634b93c21683ca9d8aae4642ed0f9ec00c80826bbb3b&",
+    "creadoPorId": "791958476003868702",
+    "creadoPorTag": "koraybe.",
+    "creadoEn": "2026-07-07T18:35:34.745Z"
+  }
+}

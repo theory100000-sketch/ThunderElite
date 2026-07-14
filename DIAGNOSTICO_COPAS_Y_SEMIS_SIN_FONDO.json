@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_COPAS_SIN_FONDO.zip",
+  "semifinal_background_removed": {
+    "file": "assets/copa-semifinal-outline.png",
+    "size": [
+      642,
+      679
+    ],
+    "transparent_pixels": 370563
+  },
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

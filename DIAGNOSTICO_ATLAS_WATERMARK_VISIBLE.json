@@ -1,0 +1,24 @@
+{
+  "base_zip": "TEL_WEB_ATLAS_CREATIVE_WATERMARK.zip",
+  "logo_exists": true,
+  "logo_path": "assets/atlas-creative-watermark.png",
+  "html_results": [
+    {
+      "file": "index.html",
+      "exists": true,
+      "modified": true,
+      "anchor_count": 1,
+      "has_visible_css": true
+    },
+    {
+      "file": "partidos.html",
+      "exists": true,
+      "modified": true,
+      "anchor_count": 1,
+      "has_visible_css": true
+    }
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

@@ -1,0 +1,29 @@
+{
+  "zip_base": "TEL_WEB_BASE_SUBIDO_DATA_LOGOS_MENU_QUITADO.zip",
+  "competiciones": [
+    {
+      "nombre": "Élite League",
+      "equipos": 8
+    },
+    {
+      "nombre": "Copa Inaugural Élite",
+      "equipos": 8
+    },
+    {
+      "nombre": "Silver League",
+      "equipos": 8
+    },
+    {
+      "nombre": "Copa Inaugural Silver",
+      "equipos": 8
+    }
+  ],
+  "clubes_total": 18,
+  "archivos_parcheados": [
+    "index.html",
+    "partidos.html"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

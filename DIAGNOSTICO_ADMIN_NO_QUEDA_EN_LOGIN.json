@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_ADMIN_LOGIN_NORMAL_SIN_FLOTANTE.zip",
+  "fixes": [
+    "Admin redirige a #inicio después de login",
+    "Las tarjetas de login solo aparecen en Mi Cuenta/Login",
+    "Si admin está en #inicio se oculta la sección login",
+    "Se limpia cualquier tarjeta de login fuera de Mi Cuenta"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}
