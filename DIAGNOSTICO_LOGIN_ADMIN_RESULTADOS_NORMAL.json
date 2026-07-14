@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_COPAS_FORMATO_FORZADO_DOM.zip",
+  "fixes": [
+    "Quitar botón Resultados Directo",
+    "Login normal admin con roleplayserver007@gmail.com",
+    "Panel integrado Editar resultados",
+    "Guardar resultados con sesión admin",
+    "Quitar formato forzado de copas",
+    "Recalcular liga y copa"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

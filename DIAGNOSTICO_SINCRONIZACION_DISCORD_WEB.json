@@ -1,0 +1,15 @@
+{
+  "estado": "implementado",
+  "funciones": [
+    "crear club y escudo local",
+    "borrar club de web y competiciones",
+    "sincronizar plantilla",
+    "sincronizar fichajes",
+    "sincronizar presupuesto",
+    "mostrar ID Discord e ID EA/PSN",
+    "perfil completo de equipo",
+    "actualizacion en tiempo real"
+  ],
+  "inicio_recomendado": "INICIAR_LOCALHOST.bat",
+  "registro_comandos": "ACTUALIZAR_COMANDOS_DISCORD.bat"
+}

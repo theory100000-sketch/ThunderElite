@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "funciones": [
+    "autoguardado_resultados_liga",
+    "autoguardado_resultados_copa",
+    "autoguardado_fechas_horarios",
+    "autoguardado_competiciones",
+    "autoguardado_participantes",
+    "recalculo_clasificacion",
+    "avance_copas",
+    "actualizacion_todos_navegadores",
+    "sse_con_polling_de_respaldo",
+    "actualizacion_panel_admin"
+  ],
+  "archivo_cliente": "tel-live-sync.js",
+  "endpoint_sse": "/api/live-updates",
+  "endpoint_version": "/api/data-version"
+}

@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "scope": "todos_los_comandos_discord",
+  "commands_verified": 26,
+  "fixes": [
+    "sanitizacion_global_de_embeds",
+    "urls_publicas_validas",
+    "campos_opcionales_seguros",
+    "limites_de_texto_de_discord",
+    "reintento_automatico_con_texto",
+    "respuesta_correcta_despues_de_guardar_en_web"
+  ],
+  "requires_command_redeploy": false,
+  "requires_bot_restart": true
+}

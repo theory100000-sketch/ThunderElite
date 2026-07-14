@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_LIMPIEZA_EDITORES_DUPLICADOS_FINAL.zip",
+  "fixes": [
+    "Nuevo panel-resultados.html estilo admin",
+    "Filtros y tarjetas grandes",
+    "Guardar resultado/fecha/borrar",
+    "Limpia editores del bracket",
+    "Endpoint /api/tel-panel/matches",
+    "Endpoint /api/tel-panel/save"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

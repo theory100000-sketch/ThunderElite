@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_COPAS_FORMATO_RESULTADO_LIMPIO.zip",
+  "fixes": [
+    "Forzado por JavaScript, no solo CSS",
+    "Oculta marcadores laterales inline",
+    "Convierte VS al resultado centrado",
+    "MutationObserver para re-aplicar si la web repinta",
+    "Bracket más ancho"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

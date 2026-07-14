@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_BRACKET_COPA_MAS_GRANDE_QUEPA.zip",
+  "fixes": [
+    "Oculta marcadores laterales en semis/final",
+    "Nombres completos en semis/final",
+    "Resultado central",
+    "Bracket 1900px",
+    "Final mas grande"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

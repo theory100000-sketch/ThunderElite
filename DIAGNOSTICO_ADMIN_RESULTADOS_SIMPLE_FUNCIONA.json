@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_EDITAR_CADA_PARTIDO_SIN_RECARGA.zip",
+  "fixes": [
+    "Panel admin resultados independiente",
+    "Endpoint lista de partidos real desde data.json",
+    "Endpoint guardar simple",
+    "Endpoint borrar simple",
+    "No depende de detectar tarjetas visuales",
+    "Guarda el partido correcto siempre"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

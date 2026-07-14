@@ -1,0 +1,11 @@
+{
+  "base_zip": "TEL_WEB_PANEL_COPAS_SEPARADO_IMAGEN.zip",
+  "fixes": [
+    "roundOf robusto en panel-copas",
+    "fallback por orden de partidos",
+    "endpoint incluye campos de ronda"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

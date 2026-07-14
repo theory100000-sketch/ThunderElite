@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_COPAS_AVANCE_VISIBLE_CORRECTO.zip",
+  "fixes": [
+    "Panel externo admin-resultados.html",
+    "Endpoint /api/admin/final-login",
+    "Endpoint /api/admin/final-lista",
+    "Endpoint /api/admin/final-guardar",
+    "data.json sin cache",
+    "Recalculo liga y copa en servidor"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

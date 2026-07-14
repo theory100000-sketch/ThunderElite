@@ -1,0 +1,14 @@
+{
+  "base_zip": "TEL_WEB_FORMATO_EDITAR_RESULTADOS_TARJETAS.zip",
+  "fixes": [
+    "Quitar panel admin resultados",
+    "Quitar resultados directo",
+    "Login admin normal",
+    "Editar resultado directo en cada partido",
+    "Inputs simples dentro de las tarjetas",
+    "Guardar recalcula data.json"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

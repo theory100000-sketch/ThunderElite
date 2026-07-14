@@ -1,0 +1,7 @@
+{
+  "estado": "corregido",
+  "calculo": "directo_desde_partidos_finalizados_de_liga",
+  "campos": ["pj", "pg", "pe", "pp", "gf", "gc", "dg", "pts", "porcentaje_victorias", "posicion"],
+  "actualizacion": ["SSE", "evento_tel:data-updated", "comprobacion_cada_3_segundos"],
+  "requiere_recarga_manual": false
+}

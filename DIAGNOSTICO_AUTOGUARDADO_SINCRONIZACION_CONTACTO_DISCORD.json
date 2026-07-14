@@ -1,0 +1,22 @@
+{
+  "autoguardado": {
+    "resultados_liga": true,
+    "resultados_copa": true,
+    "fechas_y_horas": true,
+    "competiciones": true,
+    "participantes": true
+  },
+  "sincronizacion": {
+    "server_sent_events": true,
+    "respaldo_consulta_version": true,
+    "actualizacion_otros_navegadores": true,
+    "archivo_compartido": "data.json"
+  },
+  "contacto_discord": {
+    "endpoint": "/api/contact",
+    "webhook_env": "DISCORD_CONTACT_WEBHOOK_URL",
+    "bot_channel_env": "DISCORD_CONTACT_CHANNEL_ID",
+    "fallback_channel_env": "TICKETS_LOGS_CHANNEL_ID",
+    "copia_local": "contact_messages.json"
+  }
+}

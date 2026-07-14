@@ -1,0 +1,8 @@
+{
+  "funcion": "jornadas_personalizadas_liga",
+  "estado": "corregido",
+  "rango": {"minimo": 1, "maximo": 100},
+  "genera_calendario_exacto": true,
+  "confirma_si_hay_resultados": true,
+  "solo_visible_en_ligas": true
+}

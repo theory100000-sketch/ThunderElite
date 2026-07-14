@@ -1,0 +1,11 @@
+{
+  "problema": "npm install se bloqueaba instalando también Discord.js y su árbol de dependencias en Vercel",
+  "correcciones": [
+    "package.json raíz reducido a dependencias web",
+    "bot movido a /bot con package.json independiente",
+    "package-lock.json problemático eliminado",
+    "Vercel excluye /bot mediante .vercelignore",
+    "installCommand sin scripts, auditoría, opcionales ni lock nuevo",
+    "Node 20.x fijado"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_SEMIS_FINAL_SIN_CORTES.zip",
+  "fixes": [
+    "Reconstruccion JS de semis/final",
+    "Oculta contenido viejo roto",
+    "Resultado central",
+    "Nombres completos",
+    "Sin marcadores laterales"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

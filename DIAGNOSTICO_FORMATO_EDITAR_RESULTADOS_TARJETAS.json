@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_LOGIN_ADMIN_RESULTADOS_NORMAL.zip",
+  "fixes": [
+    "Formato de editar resultados cambiado a tarjetas",
+    "Un botón guardar por partido",
+    "Filtro por equipo",
+    "Login admin normal conservado",
+    "Sin Resultados Directo"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

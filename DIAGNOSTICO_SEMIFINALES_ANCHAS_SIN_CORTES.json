@@ -1,0 +1,10 @@
+{
+  "estado": "corregido",
+  "zona": "copa_semifinales",
+  "cambios": [
+    "columnas_semifinales_330px",
+    "nombres_sin_corte_por_letras",
+    "ganador_sin_solapamiento",
+    "final_sin_cambios"
+  ]
+}

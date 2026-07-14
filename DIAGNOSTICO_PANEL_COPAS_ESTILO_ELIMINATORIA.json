@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_PANEL_RESULTADOS_ESTILO_ADMIN.zip",
+  "fixes": [
+    "Panel distinto para copas",
+    "Ligas conservan panel anterior",
+    "Editor grande copa",
+    "Bracket más legible"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_SEMIFINALES_BRACKET_CORREGIDAS.zip",
+  "fixes": [
+    "Eliminar parche semifinales anterior",
+    "Bracket 1480px estable",
+    "Columnas compactas",
+    "Semis/final sin solaparse",
+    "Nombres maximo dos lineas"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

@@ -1,0 +1,5 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "npm install --omit=dev --omit=optional --ignore-scripts --no-audit --no-fund --no-package-lock --loglevel=error"
+}

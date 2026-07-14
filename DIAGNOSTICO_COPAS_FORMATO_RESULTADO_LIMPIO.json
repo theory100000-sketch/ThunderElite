@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_RESULTADOS_DIRECTO_SIN_SESION.zip",
+  "fixes": [
+    "Resultado centrado en copa",
+    "Ocultar score boxes laterales",
+    "Bracket más ancho",
+    "Semis/final con más espacio",
+    "Por definir sin marcador falso"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

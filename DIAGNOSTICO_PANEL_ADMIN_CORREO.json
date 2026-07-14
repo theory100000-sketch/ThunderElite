@@ -1,0 +1,7 @@
+{
+  "admin_email": "roleplayserver007@gmail.com",
+  "admin_access": "email_login_only",
+  "discord_admin_promotion": false,
+  "password_env_supported": ["WEB_ADMIN_PASSWORD", "ADMIN_PASSWORD"],
+  "panel_url": "/panel-admin.html"
+}

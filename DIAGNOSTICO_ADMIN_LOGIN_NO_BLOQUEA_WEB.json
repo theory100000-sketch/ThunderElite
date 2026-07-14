@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_ADMIN_INLINE_PARTIDOS_SIMPLE.zip",
+  "fixes": [
+    "Admin login vuelve a inicio",
+    "Oculta login si admin está conectado",
+    "No bloquea la web normal",
+    "Parchea navegación login/mi cuenta"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

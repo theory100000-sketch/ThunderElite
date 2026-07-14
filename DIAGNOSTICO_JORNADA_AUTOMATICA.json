@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "cambios": [
+    "avance automático a la primera jornada con partidos pendientes",
+    "oculta partidos ya finalizados en próximos partidos",
+    "indicador de jornada real",
+    "etiqueta de jornada en cada tarjeta del panel de resultados"
+  ]
+}

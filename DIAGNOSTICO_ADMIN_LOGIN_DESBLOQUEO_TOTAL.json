@@ -1,0 +1,24 @@
+{
+  "base_zip": "TEL_WEB_ADMIN_LOGIN_NO_BLOQUEA_WEB.zip",
+  "localStorage_keys_found_before_patch": [
+    "telAdminEmail",
+    "telAdminLogged",
+    "tel_accounts",
+    "tel_current_email",
+    "tel_last_password_code",
+    "tel_logged_in"
+  ],
+  "sessionStorage_keys_found_before_patch": [],
+  "fixes": [
+    "Endpoint /api/admin/desbloqueo-login",
+    "Endpoint /api/admin/desbloqueo-status",
+    "Captura submit/click de login admin",
+    "Setea múltiples localStorage/sessionStorage",
+    "Fuerza #inicio",
+    "Oculta login si admin conectado",
+    "Badge ADMIN visible"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

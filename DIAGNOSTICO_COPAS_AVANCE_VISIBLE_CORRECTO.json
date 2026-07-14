@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_COPAS_LIMPIAS_SIN_ERRORES.zip",
+  "fixes": [
+    "Avance de cuartos a semifinal corregido",
+    "Limpieza no borra equipos avanzados",
+    "Resultados falsos ocultos solo si falta equipo",
+    "Final depende de ganadores de semifinal",
+    "Endpoint /api/admin/copas/avance-visible"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

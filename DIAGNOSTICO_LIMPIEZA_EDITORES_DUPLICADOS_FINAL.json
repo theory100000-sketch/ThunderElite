@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_LOGIN_Y_RESULTADOS_ARREGLADO_FINAL.zip",
+  "fixes": [
+    "Eliminar duplicados runtime",
+    "Ocultar editores en copa/clasificación",
+    "Guardar con endpoint fallback",
+    "Solo tarjetas de partidos reales"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

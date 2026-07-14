@@ -1,0 +1,8 @@
+bot/**
+node_modules/**
+.env
+.env.*
+*.bat
+*.sh
+README_*.txt
+DIAGNOSTICO_*.json

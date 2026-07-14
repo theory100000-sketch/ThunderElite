@@ -1,0 +1,23 @@
+{
+  "problema": "El comando guardaba los cambios en data.json y la web, pero el embed de respuesta fallaba al usar una ruta local de escudo.",
+  "causa": "Discord EmbedBuilder requiere URL http/https; /escudos/archivo.png no es una URL válida para Discord.",
+  "correcciones": [
+    "Helper telDiscordImageUrl añadido",
+    "Prioridad para escudoDiscordUrl",
+    "Fallback seguro para clubes sin URL pública",
+    "Todos los setThumbnail de clubes protegidos",
+    "Registro de errores incluye el nombre del comando"
+  ],
+  "comandos_afectados_corregidos": [
+    "crear-club",
+    "añadir-dinero",
+    "quitar-dinero",
+    "asignar-presupuesto",
+    "editar-club",
+    "ficha-club",
+    "plantilla",
+    "fichar",
+    "sancionar-club",
+    "comandos relacionados con clubes"
+  ]
+}

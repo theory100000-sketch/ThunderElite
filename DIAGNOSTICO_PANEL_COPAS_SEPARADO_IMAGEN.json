@@ -1,0 +1,12 @@
+{
+  "base_zip": "TEL_WEB_PANEL_COPAS_ESTILO_ELIMINATORIA.zip",
+  "fixes": [
+    "Página separada panel-copas.html",
+    "Diseño específico como imagen",
+    "Panel de ligas queda separado",
+    "Botón Panel copas añadido"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

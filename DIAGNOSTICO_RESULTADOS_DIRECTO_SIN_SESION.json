@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_ADMIN_RESULTADOS_INPUT_FIX.zip",
+  "fixes": [
+    "Página resultados-directo.html sin login",
+    "Endpoint /api/admin/direct-lista sin sesión",
+    "Endpoint /api/admin/direct-guardar con contraseña",
+    "Inputs desbloqueados",
+    "Guarda data.json y recalcula"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}

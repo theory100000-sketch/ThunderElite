@@ -1,0 +1,13 @@
+{
+  "base_zip": "TEL_WEB_PANEL_COPAS_DETECTA_PARTIDOS.zip",
+  "fixes": [
+    "CSS fuerte para semifinales",
+    "Bracket más ancho",
+    "Nombres completos",
+    "Marcador central",
+    "Ocultar editores dentro del bracket"
+  ],
+  "server.js_syntax_ok": true,
+  "index.js_syntax_ok": true,
+  "start-all.js_syntax_ok": true
+}
